@@ -7,7 +7,18 @@ This application has the specific purpose of enabling the detection of movement 
 
 Through the analysis of movement patterns in simulated versions of classical neurological tests, such as the finger-to-nose and rapid finger movement tasks, we aim to identify novel patterns that can support better-informed decisions regarding this health condition.
 
-For this purpose, we require access to your device’s camera in order to analyse movements in real time. No images or videos are recorded or stored. We also require access to your device’s motion sensors to ensure it is positioned correctly during the tests. No personal data is stored, and the information collected from the tests is used solely to contribute to scientific advancement. Your device’s IP address will be recorded only once, at the time you agree to participate in the study during your first login.
+For this purpose, we require access to your device’s camera in order to analyse movements in real time. No images or videos are recorded or stored. We also require access to your device’s motion sensors to ensure it is positioned correctly during the tests. No personal data is stored by us directly, and the information collected from the tests is used solely to contribute to scientific advancement. Your device’s IP address will be recorded only once, at the time you agree to participate in the study during your first login.
+
+## Third-Party Services
+This app integrates with third-party services (including Google Sign-In and Firebase) for authentication and related functionality. These services may collect certain information as part of their normal operation, including:
+- Email address
+- Phone number
+- User ID
+- Device ID
+- Other usage data
+- Other data types required for authentication and analytics
+
+The collection and use of this data by third-party services is governed by their respective privacy policies. We do not use this data for tracking, nor do we sell it to third parties.
 
 ## Data We Collect
 
@@ -42,8 +53,8 @@ Participants may request clarification about the data collected during the trial
 For any questions about this privacy policy or the app’s data practices, please contact:  
 
 **[MS Upper Limbs Research Team]**  
-Eduardo Dati Dias - Senior Developer
-Email: [edudati@gmail.com]
+Eduardo Dati Dias – Senior Developer  
+Email: [edudati@gmail.com]  
 
-Andrew Lockhart - NDCN Researcher
+Andrew Lockhart – NDCN Researcher  
 Email: [andrew.lockhart@ndcn.ox.ac.uk]
